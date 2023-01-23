@@ -1101,5 +1101,11 @@ ul li {
     padding-top: 80px;
     font-size: 45px;
 }
+.main_inner_imgteam1{
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-image: url(image/surat.jpeg);
+}
 
 /* about html part is closed ---------------------------------- */
