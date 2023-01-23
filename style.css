@@ -1109,3 +1109,7 @@ ul li {
 }
 
 /* about html part is closed ---------------------------------- */
+
+.main_section .img{
+    width:100%;
+}
